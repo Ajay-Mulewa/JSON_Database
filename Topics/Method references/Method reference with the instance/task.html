@@ -1,0 +1,34 @@
+<h2>Method reference with the instance</h2>
+<html>
+ <head></head>
+ <body>
+  <p>Given the following class with few methods:</p> 
+  <p> </p> 
+  <pre><code class="language-java">class Customer {
+    
+    String firstName;
+    String lastName;
+    
+    public Customer(String firstName, String lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+}</code></pre> 
+  <p> </p> 
+  <p>Here is one instance of the class:</p> 
+  <p> </p> 
+  <pre><code class="language-java">Customer customer = new Customer("Paul", "Morris");</code></pre> 
+  <p> </p> 
+  <p>How will you write a method reference to the method <code class="language-java">getFirstName</code> using the instance?</p> 
+  <p> </p> 
+  <p>Enter the correct answer without a semicolon (<strong>;</strong>) at the end. Do not use spaces in the result.</p>
+ </body>
+</html>

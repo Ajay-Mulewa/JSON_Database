@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: 'no order of the elements '
+- text: sorted order of elements according to the values
+- text: sorted order of elements according to the keys
+- text: order of elements that is same as the order they were inserted
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2112#comment
+status: Solved
+record: -1

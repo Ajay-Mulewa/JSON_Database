@@ -1,0 +1,12 @@
+content:
+- Theory
+- Statements about starting threads
+- The difference between start and run
+- Message notifier as a thread
+- The order of lines
+- When will a thread start performing a task
+- Statements
+- Writing a thread for printing numbers
+- Starting runnables
+- Multiple threads
+- Starting threads

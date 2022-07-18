@@ -1,0 +1,16 @@
+content:
+- Debugging techniques
+- Lambda expressions
+- Threads as objects
+- Custom threads
+- Thread management
+- Recursion
+- Command
+- The Set interface
+- The Map interface
+- Anonymous classes
+- Default methods
+- Method references
+- Functional interfaces
+- Thread synchronization
+- Executors
